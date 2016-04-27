@@ -105,7 +105,7 @@
 
 .Work-item{
 	display: inline-block;      /* 2 - Permite que las imagenes sean responsive*/
-	margin: 0 20px 20px;        /* 3 - Se agrega margenes entre elementos */
+	margin: 0 20px 20px 0;        /* 3 - Se agrega margenes entre elementos */
 }
 
 .Work-imageContainer{
